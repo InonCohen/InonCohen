@@ -1,4 +1,4 @@
-# Hi there, I'm Inon 👋
+# Hi there 👋
 
 ## About Me
 I'm a soon-to-be Computer Science graduate with a strong foundation in software development. I'm proficient in languages such as C, C++, and Python.
