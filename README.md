@@ -5,8 +5,8 @@ I'm a soon-to-be Computer Science graduate with a strong foundation in software 
 I am eager to contribute to impactful projects and continue to grow as a developer.
 
 ## Skills and Technologies
-- **Languages:** C, C++, Python, C#.
-- **Tools:** Git, VS Code, cLion, Azure.
+- **Languages:** C, C++, Python, C#, Assembly.
+- **Tools:** Git, VS Code, cLion, Azure, IDA.
 
 <!---## Projects
 - [Project 1](https://github.com/your_username/project1): A brief description of what this project is about.
