@@ -1,8 +1,9 @@
 # Hi there 👋
 
 ## About Me
-I'm a soon-to-be Computer Science graduate with a strong foundation in software development. I'm proficient in languages such as C, C++, and Python.
-I am eager to contribute to impactful projects and continue to grow as a developer.
+I am a recent Software Engineering graduate with a strong foundation in software development. Proficient in C, C++, and Python, I am passionate about learning new programming languages and their intricacies. Recently, I explored Solidity and applied it in a project, which I found thoroughly enjoyable and enlightening. The experience provided me with valuable insights into its dedicated IDEs, as well as its advantages and limitations.
+
+After working part-time as a C++ programmer for two and a half years, I am now eager to take the next step in my career and secure my first full-time position as a developer. I am enthusiastic about contributing to impactful projects and continuing to grow as a developer.
 
 ## Skills and Technologies
 - **Languages:** C, C++, Python, C#, Assembly.
